@@ -422,7 +422,7 @@ span.match {
 }
 
 #member_mentions h3 a {
-   color: var(--text-special);
+   color: var(--bacgkround-elevated);
 }
 
 pre.special_formatting{
