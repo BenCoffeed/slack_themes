@@ -315,7 +315,7 @@ ts-message .action_hover_container .btn_msg_action,
 .menu,
 .menu #menu_items_scroller,
 .btn, .btn_outline {
-  background: var(--background-elevated) !important;
+  background: var(--background-bright) !important;
 }
 
 
