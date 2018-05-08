@@ -108,7 +108,7 @@ ts-jumper input[type="text"],
   background: var(--background) !important;
 }
 
-#channel_topic_text code {
+code {
   bacground: var(--background-bright) !important
 }
 
