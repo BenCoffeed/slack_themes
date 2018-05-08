@@ -104,8 +104,12 @@ __TODO-highlight-indicator {
 #search_terms, #footer, ts-message, .channel_header, ts-jumper ts-jumper-container,
 ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
-#channel_header_info, #channel_topic_text, #channel_topic_text code, #edit_topic_inner:before {
-  background: var(--background-bright) !important;
+#channel_header_info, #channel_topic_text, #edit_topic_inner:before {
+  background: var(--background) !important;
+}
+
+#channel_topic_text code {
+  bacground: var(--background-bright) !important
 }
 
 .channel_header, #col_messages, #footer {
