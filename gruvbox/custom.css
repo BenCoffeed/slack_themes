@@ -19,12 +19,12 @@ limitations under the License.
    --primary: #EBDBB2;
    --text: #EBDBB2;
    --background: #282828;
-   --background-elevated: #282828;
+   --background-elevated: #98971A;
 
    /* These should be less important: */
    --background-hover: #3C3836;
    --background-light: #3C3836;
-   --background-bright: #282828;
+   --background-bright: #98971A;
 
    --border-dim: #3C3836;
    --border-bright: var(--primary);
