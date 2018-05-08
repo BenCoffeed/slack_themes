@@ -105,7 +105,7 @@ __TODO-highlight-indicator {
 ts-jumper input[type="text"],
 .supports_custom_scrollbar:not(.slim_scrollbar) #col_channels:hover #channels_scroller::-webkit-scrollbar-track,
 #channel_header_info, #channel_topic_text, #channel_topic_text code, #edit_topic_inner:before {
-  background: var(--background) !important;
+  background: var(--background-bright) !important;
 }
 
 .channel_header, #col_messages, #footer {
@@ -315,7 +315,7 @@ ts-message .action_hover_container .btn_msg_action,
 .menu,
 .menu #menu_items_scroller,
 .btn, .btn_outline {
-  background: var(--background-bright) !important;
+  background: var(--background-elevated) !important;
 }
 
 
